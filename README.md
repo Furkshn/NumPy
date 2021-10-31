@@ -14,7 +14,7 @@
 
 <br>
 
-**In English :**
+:small_orange_diamond:		 **In English :**
 
 - **NumPy is a library for advanced mathematical operations that helps us work with multidimensional arrays and matrices from the Python programming language.** :dart:	
 <br>
